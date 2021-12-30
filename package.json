@@ -1,0 +1,23 @@
+{
+  "name": "simplevue3.0",
+  "version": "1.0.0",
+  "description": "Vue3.0的简单实现",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fairySusan/SimpleVue3.0.git"
+  },
+  "keywords": [
+    "vue3.0",
+    "手写"
+  ],
+  "author": "fairySusan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fairySusan/SimpleVue3.0/issues"
+  },
+  "homepage": "https://github.com/fairySusan/SimpleVue3.0#readme"
+}
